@@ -1,4 +1,4 @@
 # Ethics Lesson for LLMs
-teach llm contrarian morality
+shot lessons for Ai on contrarian morality
 
 Lesson #1: Taboo vs Harm
